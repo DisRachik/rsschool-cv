@@ -21,3 +21,11 @@ function multiply() {
 
 ### Work experience:
 *In the process of filling...*
+
+### Education and courses:
+- My first course in programming 1
+
+### Language:
+- Ukrainian - native speaker.
+- English level - A1 (А2 in process…)
+- Russian - I'm trying to forget!
